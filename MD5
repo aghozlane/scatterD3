@@ -16,8 +16,8 @@ ef54456443f8077b51e73565ef195f96 *inst/htmlwidgets/lib/d3-lasso-plugin/lasso.css
 53a84687b07856608ed1d57fc5adb6e1 *inst/htmlwidgets/lib/d3-lasso-plugin/lasso.js
 1fee5abd329e5719a45e7aca380e80c6 *inst/htmlwidgets/lib/d3-legend.min.js
 210c678aef0965f051785069e82700ca *inst/htmlwidgets/lib/scatterD3.css
-d6704d4f9ce37bf03d163ad3b052e2f3 *inst/htmlwidgets/scatterD3.js
-221e87f55ec78ce2a5e7b048de150287 *inst/htmlwidgets/scatterD3.yaml
+098285d33c810da57dfc7b98516ed1d1  inst/htmlwidgets/scatterD3.js
+4644cb2258e2dd5ce183e5a91b950ec1  inst/htmlwidgets/scatterD3.yaml
 12229f19d7fb5d246373d4a3e633534b *man/scatterD3-shiny.Rd
 1bb1c38f66153ee3f513b5ac933ec8e9 *man/scatterD3.Rd
 c286a29f2adff2645c64d844b6cba45b *vignettes/introduction.Rmd
