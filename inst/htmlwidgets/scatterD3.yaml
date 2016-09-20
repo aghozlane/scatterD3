@@ -3,11 +3,11 @@ dependencies:
     version: 3.5.6
     src: htmlwidgets/lib
     script:
-      - d333-3.5.6.min.js
-      - d333-legend.min.js
+      - d3-3.5.6.min.js
+      - d3-legend.min.js
     stylesheet: scatterD3.css
-  - name: d333.lasso-plugin
+  - name: d3.lasso-plugin
     version: 1.0.0
-    src: htmlwidgets/lib/d333-lasso-plugin
+    src: htmlwidgets/lib/d3-lasso-plugin
     script: lasso.js
     stylesheet: lasso.css
